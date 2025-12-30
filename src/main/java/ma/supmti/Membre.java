@@ -1,8 +1,7 @@
-package com.example;
+package ma.supmti;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-
 import java.time.LocalDate;
 
 @Entity

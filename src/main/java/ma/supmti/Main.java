@@ -1,4 +1,4 @@
-package com.example;
+package ma.supmti;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
